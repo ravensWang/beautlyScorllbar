@@ -1,0 +1,4 @@
+/*For 美化滚动条*/
+.scroll,.scrollbar{width: 10px;border-radius: 5px;}
+.scroll{background-color: #D4DFE0;position: absolute;top: 0px;right: 0px;}
+.scrollbar{background-color: #A9B2B3;position: absolute;min-height: 20px;cursor: default;}
